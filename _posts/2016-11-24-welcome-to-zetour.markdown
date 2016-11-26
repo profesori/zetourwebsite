@@ -1,7 +1,7 @@
 ---
 title: Welcome to ZeTour
+date: 2016-11-24 18:44:04 Z
 layout: post_content
-date: '2016-11-24 19:44:04 +0100'
 comments: true
 header-img: static/img/intro/intro2.jpg
 ---
